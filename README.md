@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning Python<br>🎲 Fun fact: I debug with coffee ☕<br>📫 How to reach me: jendra455@gmail.com</p>
+<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning Python<br>🎲 Fun fact: I debug with coffee ☕<br>📫 How to reach me: <a href="mailto:jendra455@gmail.com">jendra455@gmail.com</a></p>
 
 ###
 
